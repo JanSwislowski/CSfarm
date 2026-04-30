@@ -166,9 +166,6 @@ class player:
 
 # smooth_move(dist,steps=steps)
 
-print(get_angle(0,0,0,-1))
-
-print(angle_delta(135,-135))
 p=player()
 p.run()
 # img=get_img()
